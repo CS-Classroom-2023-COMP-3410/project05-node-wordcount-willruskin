@@ -1,0 +1,26 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "what",
+  "main": "yes",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CS-Classroom-2023-COMP-3410/project05-node-wordcount-willruskin.git"
+  },
+  "keywords": [
+    "na"
+  ],
+  "author": "will ruskin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CS-Classroom-2023-COMP-3410/project05-node-wordcount-willruskin/issues"
+  },
+  "homepage": "https://github.com/CS-Classroom-2023-COMP-3410/project05-node-wordcount-willruskin#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "jest": "^30.2.0"
+  }
+}

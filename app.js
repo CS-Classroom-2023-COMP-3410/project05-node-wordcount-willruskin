@@ -3,7 +3,7 @@
 
 /**
  * Synchronously reads the content of 'declaration.txt'.
- * @returns {string} The content of the file.
+ * @returns {string} Theent of the file.
  */
 function readFileContent() {
     // TODO: Use the 'fs' module to synchronously read the content of 'declaration.txt' and return it.
